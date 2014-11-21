@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="lib" path="C:/Users/sebu9426/Documents/JOSM1/josm/plugins/00_plugin_dir_template/lib/turnrestrictions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sebu9426/Desktop/josm-tested (1).jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
